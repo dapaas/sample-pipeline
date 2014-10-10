@@ -1,4 +1,3 @@
-sample-pipeline
-===============
+# ontotext-grafter
 
-Sample Grafter Pipeline
+An example grafter pipeline for integration purposes.
